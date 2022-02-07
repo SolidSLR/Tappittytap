@@ -53,6 +53,7 @@
    - Centro inferior -> Botón "Xogar".
 
 5. Pantalla de xogo:
+   - Cámara fixa ocupando toda a pantalla do dispositivo.
    - Esquina superior esquerda -> Cronómetro con tempo restante.
    - Esquina superior dereita -> Puntuación actual do nivel.
    - Resto da pantalla -> Zona de xogo.
@@ -97,3 +98,6 @@
 1. Hardware obxectivo
    - Dispositivos Android.
    - Dispoisitivos iOS.
+
+2. Software de desenvolvemento
+   - Unity
