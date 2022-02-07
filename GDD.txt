@@ -91,7 +91,7 @@
 - App Store (Apple), Play Store (Android)
 - Adds in-game
 - Opción premium (sen anuncios) a disposición de compra dentro do propio xogo (2.49€).
-- Clasificación PEGI 7.
+- Clasificación PEGI 3 con compras In-Game.
 
 ## Datos técnicos
 
